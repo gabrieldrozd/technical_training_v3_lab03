@@ -351,8 +351,4 @@ MigrationBackup/
 
 lab03/.idea/sonarlint/issuestore/d/8/
 
-*.xml
-
-*.config
-
 *.pb
